@@ -14,6 +14,8 @@
 
 温馨提示：`如遇代码问题请`[单击此处](mailto:aleaderkimo@foxmail.com)`进行反馈`
 
+特别提醒：`代码可以打包下载`
+
 ---
 
 ### 各大平台主页
@@ -26,4 +28,4 @@
 
 Hydro：`AleaderKimo`
 
-Google：Chen Fengyi（Not Youtube）
+Google：`Chen Fengyi（Not Youtube）`
