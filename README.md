@@ -29,3 +29,5 @@
 Hydro：`AleaderKimo`
 
 Google：`Chen Fengyi（Not Youtube）`
+
+[![MyCardByJerry](https://cards.jerryz.com.cn/api?bilibili=AleaderKimo&google=Aleader_Kimo_&email=aleaderkimo%40foxmail.com&qq=3090692064&github=AleaderKimo&site=aleaderkimo.moe&wechat=AleaderKimo&luogu=927203)](https://cards.jerryz.com.cn/)
