@@ -5,9 +5,6 @@
   <a href="en_us-README.md">
    <img alt="English" src="https://img.shields.io/badge/English-black">
   </a>
-  <a href="zh_td-README.md">
-   <img alt="Static Badge" src="https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-black">
-  </a>
 </div>
 
 # 😀 欢迎来到 FredericationOI-Code-Repository
