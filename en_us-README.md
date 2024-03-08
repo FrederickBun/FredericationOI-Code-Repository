@@ -11,6 +11,6 @@
 
 ❗️Important notes:
 
-- Feel free to raise Issues if the code needs improvement.
+- Feel free to raise [Issues](https://github.com/FrederickAsYou/FredericationOI-Code-Repository/issues) if the code needs improvement.
 
-- You can also share your ideas and interact with other partners in Discussions.
+- You can also share your ideas and interact with other partners in [Discussions](https://github.com/FrederickAsYou/FredericationOI-Code-Repository/Discussions).
