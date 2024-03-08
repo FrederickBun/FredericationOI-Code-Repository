@@ -1,9 +1,9 @@
 <div align="right">
   <a href="README.md">
-   <img alt="Static Badge" src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-black">
+   <img alt="Static Badge" src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-black?style=for-the-badge">">
   </a>
   <a href="en_us-README.md">
-   <img alt="English" src="https://img.shields.io/badge/English-purple">
+   <img alt="English" src="https://img.shields.io/badge/English-purple?style=for-the-badge">">
   </a>
 </div>
 
