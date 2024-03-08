@@ -11,6 +11,6 @@
 
 ❗️注意事项：
 
- - 代码如需改进可以提[Issues](/issues)
+ - 代码如需改进可以提[Issues](https://github.com/FrederickAsYou/FredericationOI-Code-Repository/issues)
 
- - 也可以在[Discussions](discussions)中提出自己的想法，与其他伙伴交流
+ - 也可以在[Discussions](https://github.com/FrederickAsYou/FredericationOI-Code-Repository/discussions)中提出自己的想法，与其他伙伴交流
